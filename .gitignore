@@ -1,0 +1,10 @@
+# Local development
+.venv/
+*.egg-info/
+
+# Responses (managed by CommitScheduler on HF Spaces)
+responses/*.jsonl
+
+# Python
+__pycache__/
+*.pyc
